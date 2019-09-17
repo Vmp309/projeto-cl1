@@ -1,6 +1,6 @@
 <h1>Projeto - Circuitos Lógicos</h1>
 <br>
-<p>Projeto final da disciplina de Circuitos Lógicos.
+<p>Projeto final da disciplina de Circuitos Lógicos I.
 <br>
 Curso de Graduação em Engenharia de Computação.
 <br>
